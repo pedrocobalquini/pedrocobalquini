@@ -29,6 +29,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Medical Cost Data Visualization](https://github.com/pedrocobalquini/Medical-Cost)
+- [Fake-News-Detection-Project](https://github.com/pedrocobalquini/Fake-News-Detection-Project)
 
 <!-- GIF -->
 <p align="left">
