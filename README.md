@@ -6,28 +6,20 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Pedro! A passionate Data Science student from Brazil.
+  Olá 👋, sou o Pedro!
 
-  - 🌱 I’m currently studying Data Science and Computer Science
+  - 🌱 Atualmente estou estudando Ciência de Dados e Ciência da Computação
 
-  - 🔭 I am looking for my first job opportunity.
+  - 🔭 Estou em busca da minha primeira oportunidade de emprego.
 </p>
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 20 years old, currently living in Brazil.
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games!
-</details>
-
 <!-- Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrocobalquini/)
+## Portfólio & LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocobalquini/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/pedrocobalquini)
+[![Portfólio](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge)](https://first-behavior-702983.framer.app/)
 
 <!-- Portfolio -->
-## Portfolio:
+## Projetos:
 - [Medical Cost Data Visualization](https://github.com/pedrocobalquini/Medical-Cost)
 - [Fake-News-Detection-Project](https://github.com/pedrocobalquini/Fake-News-Detection-Project)
 
@@ -45,7 +37,7 @@
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Ferramentas & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
     <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -53,7 +45,7 @@
   
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
-    <h3>Libraries</h3>
+    <h3>Bibliotecas</h3>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
