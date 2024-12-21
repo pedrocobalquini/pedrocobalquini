@@ -16,7 +16,7 @@
 <!-- Links -->
 ## Portfólio & LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocobalquini/)
-[![Portfólio](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge)](https://pedrocobalquini.framer.website/projects)
+[![Portfólio](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge)](https://pedrocobalquini.framer.website)
 
 <!-- Portfolio -->
 ## Projetos:
