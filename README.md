@@ -8,20 +8,21 @@
 <p>
   Olá 👋, sou o Pedro!
 
-  - 🌱 Atualmente estou estudando Ciência de Dados e Ciência da Computação
-
+  - 🌱 Atualmente estou terminando a faculdade de Ciência da Computação
+ 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego.
 </p>
 
 <!-- Links -->
 ## Portfólio & LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocobalquini/)
-[![Portfólio](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge)](https://ineffable-globe-651971.framer.app/)
+[![Portfólio](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge)](https://pedrocobalquini.framer.website/projects)
 
 <!-- Portfolio -->
 ## Projetos:
-- [Medical Cost Data Visualization](https://github.com/pedrocobalquini/Medical-Cost)
+- [Previsão de preços imobiliários](https://github.com/pedrocobalquini/Previsao-de-precos)
 - [Fake-News-Detection-Project](https://github.com/pedrocobalquini/Fake-News-Detection-Project)
+- [Medical Cost Data Visualization](https://github.com/pedrocobalquini/Medical-Cost)
 
 <!-- GIF -->
 <p align="left">
@@ -35,13 +36,6 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Ferramentas & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </div>
   
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
