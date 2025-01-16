@@ -8,15 +8,16 @@
 <p>
   Olá 👋, sou o Pedro!
 
-  - 🌱 Atualmente estou terminando a faculdade de Ciência da Computação
+  - 🌱 Atualmente estou terminando a faculdade de Ciência da Computação.
  
-  - 🔭 Estou em busca da minha primeira oportunidade de emprego.
+  - 🔭 Estou estudando sobre tudo que envolve a área de dados.
 </p>
 
 <!-- Links -->
-## Portfólio & LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocobalquini/)
-[![Portfólio](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=for-the-badge)](https://pedrocobalquini.framer.website)
+## Links:
+- [LinkedIn](https://www.linkedin.com/in/pedrocobalquini/)
+- [Portfólio pessoal](https://pedrocobalquini.framer.website)
+- [Curriculo](https://docs.google.com/document/d/1QUPu1dkZU6Ws2LJhrMoJG3RDLIMaQUEL/edit?usp=sharing&ouid=110463610946032391224&rtpof=true&sd=true)
 
 <!-- Portfolio -->
 ## Projetos:
@@ -32,7 +33,7 @@
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Linguagem de programação</h3>
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
   
@@ -40,8 +41,20 @@
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
     <h3>Bibliotecas</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    <img align="center" alt="OpenCV" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/>
+    <img align="center" alt="PyTorch" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
+    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+    <img align="center" alt="TensorFlow" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
+  </div>
+
+  <div style="flex-basis: 48%;">
+    <h3>Ferramentas</h3>
+    <img align="center" alt="Git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+    <img align="center" alt="Linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+    <img align="center" alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+    <img align="center" alt="Microsoft SQL Server" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+    <img align="center" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+    <img align="center" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
   </div>
