@@ -72,5 +72,24 @@ Analista de Dados com foco na coleta, organização e análise de dados para apo
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 
+
+
 <br/>
 <br/>
+
+
+## 📊 Estatísticas
+
+<p>
+    <div align="center">
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrocobalquini&show_icons=true&theme=react&include_all_commits=true&locale=pt-br"
+      />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img
+        height="180"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pedrocobalquini&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"
+      />
+    </div>
+</p>
